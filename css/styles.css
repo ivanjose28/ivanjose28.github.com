@@ -1,0 +1,27 @@
+.cabecera{
+ background-image: url('../img/banner-static.jpg');
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ position: relative;
+ background-attachment: fixed;
+}
+.nombre{
+    font-weight:bold;
+    font-style:oblique;
+    font-size:4rem;
+     
+}
+.texto-footer{
+    color: white;
+    font-size: 1rem;
+}
+.pie-pagina{
+    background-color:dimgrey;
+    padding-top:1rem;
+    padding-bottom: 1rem; 
+}
+.seccion-contacto{
+    margin-bottom:2rem;
+    margin-top:2rem; 
+}
